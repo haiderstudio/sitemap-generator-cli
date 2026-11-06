@@ -1,0 +1,7 @@
+OK — wrote 3 url(s) to examples/sitemap-from-urls.xml
+OK — wrote 3 url(s) to examples/sitemap-from-folder.xml
+examples/bad-urls.txt: line 4: example.com/no-scheme: no http:// or https:// scheme
+examples/bad-urls.txt: line 4: example.com/no-scheme: no host name
+examples/bad-urls.txt: line 6: https://example.com/page#section: has a #fragment (not allowed in a sitemap loc)
+https://example.com/about.html: duplicate URL
+4 problem(s), no sitemap written

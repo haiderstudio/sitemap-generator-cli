@@ -1,0 +1,4 @@
+# One URL per line. Lines starting with # are comments.
+https://example.com/
+https://example.com/about.html
+https://example.com/blog/first-post.html
